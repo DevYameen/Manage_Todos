@@ -18,6 +18,8 @@ Manage-Todos is a simple and efficient task management application built with **
 - **CSS/SCSS/TailwindCSS**: For styling (mention whichever you're using).
 - **React Hooks**: To manage state and lifecycle of the components.
 ## Screenshots
+ Desktop View:
+ ![Desktop View](assets/desktop.png)
 
 ## Installation
 
